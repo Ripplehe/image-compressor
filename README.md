@@ -7,6 +7,12 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
+## 🌐 在线体验
+
+**立即访问：[https://image-ashy-nine.vercel.app/](https://image-ashy-nine.vercel.app/)**
+
+无需安装，打开即用！支持手机、平板、电脑等所有设备。
+
 ## ✨ 功能特性
 
 ### 🎯 核心功能
@@ -116,6 +122,29 @@ image-compressor/
 - **左右分栏布局**：左侧设置区，右侧预览区
 - **卡片式展示**：每张图片独立卡片，信息清晰
 - **动画反馈**：流畅的过渡动画和加载状态
+
+## 🚢 部署
+
+### Vercel 部署（推荐）
+
+本项目已部署在 Vercel 上，你也可以一键部署自己的版本：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ripplehe/image-compressor)
+
+### 手动部署步骤
+
+1. Fork 本仓库到你的 GitHub 账号
+2. 在 [Vercel](https://vercel.com) 上导入你的仓库
+3. Vercel 会自动检测 Next.js 项目并完成部署
+4. 部署完成后即可访问你的在线图片压缩工具
+
+### 其他平台部署
+
+本项目是标准的 Next.js 应用，也支持部署到：
+- Netlify
+- Cloudflare Pages
+- Railway
+- 或任何支持 Node.js 的服务器
 
 ## 📄 开源协议
 
